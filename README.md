@@ -7,3 +7,4 @@ High-dimensional images are mapped into an experience-based explainable feature 
 To forecast the instrument's motion tendency, we model the motion primitives in the polar coordinate system (PCS) to represent patterns of complex trajectories. 
 Given the laparoscopy variance, the **adaptive pattern recognition (APR)** method, which adapts to uncertain trajectories by modifying model parameters, is designed to improve prediction accuracy. 
 The in-vivo dataset validations show that our framework fulfilled the surgical awareness tasks with exceptional accuracy and real-time performance.
+![image](https://github.com/einnullnull/critical-action-recognition-and-anticipation/assets/53144048/76545632-115e-4d5c-b710-cc4cb79b429d)
